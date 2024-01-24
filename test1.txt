@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DCCD-3576
+
+ Directory of C:\Users\Rooby.g\Git\My folder
+
+24-01-2024  11:57    <DIR>          .
+24-01-2024  11:57    <DIR>          ..
+24-01-2024  11:57                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  154,251,395,072 bytes free
